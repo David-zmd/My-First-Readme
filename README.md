@@ -1,1 +1,1 @@
-# My-First-Readme
+Learning purposes|data science 
